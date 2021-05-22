@@ -224,7 +224,7 @@ int main(int argc, char const *argv[])
         {
             for (int i = 0; i < movimento; i++)
             {
-                if (mapa[linha-1][coluna] == 35)
+                if (mapa[linha-1][coluna] == 35 || mapa[linha-1][coluna] == 1)
                 {
                     mapa[linha-1][coluna] = 1;
                     printf("\nFRACASSO-Obstaculo encontrado. Pressione qualquer tecla pra continuar...\n");
@@ -243,7 +243,7 @@ int main(int argc, char const *argv[])
         {
             for (int i = 0; i < movimento; i++)
             {
-                if (mapa[linha+1][coluna] == 35)
+                if (mapa[linha+1][coluna] == 35 || mapa[linha+1][coluna] == 1)
                 {
                     mapa[linha+1][coluna] = 1;
                     printf("\nFRACASSO-Obstaculo encontrado. Pressione qualquer tecla pra continuar...\n");
@@ -265,7 +265,7 @@ int main(int argc, char const *argv[])
         {
             for (int i = 0; i < movimento; i++)
             {
-                if (mapa[linha][coluna+1] == 35)
+                if (mapa[linha][coluna+1] == 35 || mapa[linha][coluna+1] == 1)
                 {
                     mapa[linha][coluna+1] = 1;
                     printf("\nFRACASSO-Obstaculo encontrado. Pressione qualquer tecla pra continuar...\n");
@@ -284,7 +284,7 @@ int main(int argc, char const *argv[])
         {
             for (int i = 0; i < movimento; i++)
             {
-                if (mapa[linha][coluna-1] == 35)
+                if (mapa[linha][coluna-1] == 35 || mapa[linha][coluna-1] == 1)
                 {
                     mapa[linha][coluna-1] = 1;
                     printf("\nFRACASSO-Obstaculo encontrado. Pressione qualquer tecla pra continuar...\n");
