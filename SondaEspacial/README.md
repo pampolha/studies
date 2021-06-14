@@ -1,2 +1,1 @@
-# studies
-nada muito trabalhoso, apenas aprendizados que vou deixando por aqui, seja da minha faculdade (eng. da computacao) ou projetos pessoais que eu vou fazendo comforme o meu tempo livre 
+Esse programa aqui foi um desafio proposto pelo professor de prog. 1 (eng. da computacao) que eu fiz e fiz melhor. fiquei muito orgulhoso do resultado final, apesar de não ser perfeito 
