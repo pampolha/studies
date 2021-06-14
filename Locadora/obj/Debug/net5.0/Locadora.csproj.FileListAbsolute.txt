@@ -1,0 +1,16 @@
+C:\Users\pampo\Documents\ARGO\C#\Locadora\bin\Debug\net5.0\Locadora.exe
+C:\Users\pampo\Documents\ARGO\C#\Locadora\bin\Debug\net5.0\Locadora.deps.json
+C:\Users\pampo\Documents\ARGO\C#\Locadora\bin\Debug\net5.0\Locadora.runtimeconfig.json
+C:\Users\pampo\Documents\ARGO\C#\Locadora\bin\Debug\net5.0\Locadora.runtimeconfig.dev.json
+C:\Users\pampo\Documents\ARGO\C#\Locadora\bin\Debug\net5.0\Locadora.dll
+C:\Users\pampo\Documents\ARGO\C#\Locadora\bin\Debug\net5.0\ref\Locadora.dll
+C:\Users\pampo\Documents\ARGO\C#\Locadora\bin\Debug\net5.0\Locadora.pdb
+C:\Users\pampo\Documents\ARGO\C#\Locadora\obj\Debug\net5.0\Locadora.csprojAssemblyReference.cache
+C:\Users\pampo\Documents\ARGO\C#\Locadora\obj\Debug\net5.0\Locadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pampo\Documents\ARGO\C#\Locadora\obj\Debug\net5.0\Locadora.AssemblyInfoInputs.cache
+C:\Users\pampo\Documents\ARGO\C#\Locadora\obj\Debug\net5.0\Locadora.AssemblyInfo.cs
+C:\Users\pampo\Documents\ARGO\C#\Locadora\obj\Debug\net5.0\Locadora.csproj.CoreCompileInputs.cache
+C:\Users\pampo\Documents\ARGO\C#\Locadora\obj\Debug\net5.0\Locadora.dll
+C:\Users\pampo\Documents\ARGO\C#\Locadora\obj\Debug\net5.0\ref\Locadora.dll
+C:\Users\pampo\Documents\ARGO\C#\Locadora\obj\Debug\net5.0\Locadora.pdb
+C:\Users\pampo\Documents\ARGO\C#\Locadora\obj\Debug\net5.0\Locadora.genruntimeconfig.cache

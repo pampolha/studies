@@ -1,0 +1,16 @@
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\bin\Debug\net5.0\Polimorfismo.exe
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\bin\Debug\net5.0\Polimorfismo.deps.json
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\bin\Debug\net5.0\Polimorfismo.runtimeconfig.json
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\bin\Debug\net5.0\Polimorfismo.runtimeconfig.dev.json
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\bin\Debug\net5.0\Polimorfismo.dll
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\bin\Debug\net5.0\ref\Polimorfismo.dll
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\bin\Debug\net5.0\Polimorfismo.pdb
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.csprojAssemblyReference.cache
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.dll
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\obj\Debug\net5.0\ref\Polimorfismo.dll
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.pdb
+C:\Users\pampo\Documents\ARGO\C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.genruntimeconfig.cache
