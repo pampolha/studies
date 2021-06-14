@@ -1,1 +1,1 @@
-Esse programa aqui foi um desafio proposto pelo professor de prog. 1 (eng. da computacao) que eu fiz e fiz melhor. fiquei muito orgulhoso do resultado final, apesar de não ser perfeito 
+Esse programa aqui foi um desafio proposto pelo professor de prog. 1 (eng. da computacao) que eu fiz e fiz melhor. fiquei muito orgulhoso do resultado final, apesar de não ser perfeito. (eng. da computação)
