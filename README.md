@@ -1,2 +1,2 @@
 # studies
-Código e referências que me ajudaram a ser quem eu sou na área hoje
+Algoritmos, fundamentos e projetos de baixa escala
