@@ -1,1 +1,0 @@
-Essa é a minha primeira werbpage concluída, de acordo com a referência dada (see: reference.png).
